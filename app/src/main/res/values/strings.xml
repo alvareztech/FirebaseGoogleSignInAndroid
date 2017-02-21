@@ -5,4 +5,5 @@
     <string name="revoke">Revoke</string>
     <string name="not_close_session">No se pudo cerrar sesión</string>
     <string name="not_revoke">No se pudo revocar el acceso</string>
+    <string name="not_firebase_auth">No se pudo autenticar con Firebase</string>
 </resources>

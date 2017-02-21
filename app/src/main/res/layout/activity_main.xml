@@ -54,7 +54,7 @@
         android:text="@string/log_out"
         style="@style/Widget.AppCompat.Button.Borderless.Colored"
         android:onClick="logOut"
-        />
+        android:id="@+id/button2" />
 
     <Button
         android:layout_width="match_parent"
