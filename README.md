@@ -4,5 +4,5 @@ A demonstration of implementation of authentication with Google in an Android ap
 
 ## Tutorial
 
-* [Website](http://alvarez.tech/android-log-in-con-google/)
+* [Website](https://alvarez.tech/tutorials/firebase-login-google-android/)
 * [Video](https://www.youtube.com/watch?v=O3aemJ9eAAA)
